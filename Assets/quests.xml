@@ -1,0 +1,995 @@
+<?xml version="1.0"?>
+<ArrayOfQuestion xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Question>
+		<question>К тепловым явлениям относятся:</question>
+			<ansver>
+			<string>движение Земли вокруг Солнца</string>
+			<string>падение мяча на землю</string>
+			<string>нагревание воды в чайнике</string>
+			<string>притяжение магнитом иголки</string>
+		</ansver>
+		<trueAnsver>3</trueAnsver>
+	</Question>
+	<Question>
+		<question>Температура тела зависит от:</question>
+			<ansver>
+			<string>размеров тела</string>
+			<string>скорости движения молекул</string>
+			<string>скорости движения тела</string>
+			<string>положениятела относительно Земли</string>
+		</ansver>
+		<trueAnsver>2</trueAnsver>
+	</Question>
+	<Question>
+		<question>Книгу переместили с нижней полки на верхнюю, ее внутренняя энергия:</question>
+			<ansver>
+			<string>изменилась</string>
+			<string>не изменилась</string>
+			<string>превратилась в кинетическую</string>
+			<string>книга не обладает внутренней энергией</string>
+		</ansver>
+		<trueAnsver>2</trueAnsver>
+	</Question>
+	<Question>
+		<question>Теплопередача - это:</question>
+			<ansver>
+			<string>Изменение внутренней энергии при совершении работы над телом</string>
+			<string>изменение внутренней энергии при совершении работы самим телом</string>
+			<string>изменениевнутренней энергии без совершения работы над теломили самим телом</string>
+			<string>явление передачи внутренней энергии от одной части тела к другой</string>
+		</ansver>
+		<trueAnsver>3</trueAnsver>
+	</Question>
+	<Question>
+		<question>Вид теплопередачи, при котором энергия переносится строями газа и жидкости называется:</question>
+			<ansver>
+			<string>конвекция</string>
+			<string>излучение</string>
+			<string>теплопроводность</string>
+			<string>работа</string>
+		</ansver>
+		<trueAnsver>1</trueAnsver>
+	</Question>
+	<Question>
+		<question>Вид теплопередачи, при котором внутренняя энергия передается от одной части  тела другой называется:</question>
+			<ansver>
+			<string>конвекция</string>
+			<string>излучение</string>
+			<string>теплопроводность</string>
+			<string>работа</string>
+		</ansver>
+		<trueAnsver>3</trueAnsver>
+	</Question>
+	<Question>
+		<question>Вид теплопередачи, который может осуществляться в вакууме</question>
+			<ansver>
+			<string>конвекция</string>
+			<string>излучение</string>
+			<string>теплопроводность</string>
+			<string>энергия</string>
+		</ansver>
+		<trueAnsver>2</trueAnsver>
+	</Question>
+	<Question>
+		<question>Как называется энергия, которую получает или теряет тело при теплопередаче?</question>
+			<ansver>
+			<string>Количество теплоты</string>
+			<string>Теплоемкость</string>
+			<string>Удельная теплоемкость</string>
+			<string>Удельная теплота плавления</string>
+		</ansver>
+		<trueAnsver>1</trueAnsver>
+	</Question>
+	<Question>
+		<question>Формула для расчета количества теплоты  при нагревании тела:</question>
+			<ansver>
+			<string>Q=Cm(tг - tх)</string>
+			<string>Q= Lm</string>
+			<string>E= mgh</string>
+			<string>Q=qm</string>
+		</ansver>
+		<trueAnsver>1</trueAnsver>
+	</Question>
+	<Question>
+		<question>Единица измерения внутренней энергии  в  СИ:</question>
+			<ansver>
+			<string>ньютон</string>
+			<string>джоуль</string>
+			<string>ватт</string>
+			<string>ампер</string>
+		</ansver>
+		<trueAnsver>2</trueAnsver>
+	</Question>
+	<Question>
+		<question>Агрегатное состояние вещества определяется:</question>
+			<ansver>
+			<string>только расположением молекул</string>
+			<string>характером движения и взаимодействия молекул</string>
+			<string>расположением молекул, характером движения и взаимодействия молекул</string>
+			<string>характером взаимодействия молекул</string>
+		</ansver>
+		<trueAnsver>3</trueAnsver>
+	</Question>
+	<Question>
+		<question>Молекулы одного и того же вещества в разных агрегатных состояниях:</question>
+			<ansver>
+			<string>отличаются размерами</string>
+			<string>отличаются массой</string>
+			<string>отличаются формой</string>
+			<string>ничем не отличаются</string>
+		</ansver>
+		<trueAnsver>4</trueAnsver>
+	</Question>
+	<Question>
+		<question>Переход вещества из твердого состояния в жидкое называется:</question>
+			<ansver>
+			<string>кристализацией</string>
+			<string>испарением</string>
+			<string>влажностью</string>
+			<string>плавлением</string>
+		</ansver>
+		<trueAnsver>4</trueAnsver>
+	</Question>
+	<Question>
+		<question>В процессе плавления температура тела:</question>
+			<ansver>
+			<string>уменьшается</string>
+			<string>увеличивается</string>
+			<string>не меняется</string>
+			<string>сначала уменьшается, а потом увеличивается</string>
+		</ansver>
+		<trueAnsver>3</trueAnsver>
+	</Question>
+	<Question>
+		<question>В процессе кипения температура тела:</question>
+			<ansver>
+			<string>уменьшается</string>
+			<string>увеличивается</string>
+			<string>не меняется</string>
+			<string>сначала уменьшается, а потом увеличивается</string>
+		</ansver>
+		<trueAnsver>3</trueAnsver>
+	</Question>
+	<Question>
+		<question>Испарение тела происходит:</question>
+			<ansver>
+			<string>только при увеличении температуры</string>
+			<string>при любой температуре</string>
+			<string>только при уменьшении температуры</string>
+			<string>при любом изменении температуры</string>
+		</ansver>
+		<trueAnsver>2</trueAnsver>
+	</Question>
+	<Question>
+		<question>Испарением называется:</question>
+			<ansver>
+			<string>парообразование во всем объеме жидкости</string>
+			<string>парообразование с поверхности жидкости</string>
+			<string>явление превращения жидкости в пар</string>
+			<string>явление перехода вещества из твердого состояния, минуя жидкое</string>
+		</ansver>
+		<trueAnsver>2</trueAnsver>
+	</Question>
+	<Question>
+		<question>Сублимация это:</question>
+			<ansver>
+			<string>парообразование во всем объеме жидкости</string>
+			<string>парообразование с поверхности жидкости</string>
+			<string>явление превращения жидкости в пар</string>
+			<string>явление перехода вещества из твердого состояния, минуя жидкое</string>
+		</ansver>
+		<trueAnsver>4</trueAnsver>
+	</Question>
+	<Question>
+		<question>Пар, находящийся в состоянии равновесия со своей жидкостью называется:</question>
+			<ansver>
+			<string>ненасыщенным</string>
+			<string>пересыщенным</string>
+			<string>насыщенным</string>
+			<string>динамическим</string>
+		</ansver>
+		<trueAnsver>3</trueAnsver>
+	</Question>
+	<Question>
+		<question>Явление превращения пара в жидкость называется:</question>
+			<ansver>
+			<string>увлажнение</string>
+			<string>кипение</string>
+			<string>конденсация</string>
+			<string>сублимация</string>
+		</ansver>
+		<trueAnsver>3</trueAnsver>
+	</Question>
+	<Question>
+		<question>Почему в жаркую погоду при выходе из воды ощущается прохлада? </question>
+			<ansver>
+			<string>Потому, что дует ветер</string>
+			<string>Потому, что вода холодная</string>
+			<string>Потому, что происходит испарение жидкости с тела</string>
+			<string>Потому, что происходит конденсация водяных паров на поверхности тела</string>
+		</ansver>
+		<trueAnsver>3</trueAnsver>
+	</Question>
+	<Question>
+		<question>Абсолютная влажность показывает:</question>
+			<ansver>
+			<string>сколько граммов водяного пара содержится в одном кубометре воздуха</string>
+			<string>какой объем воды содержится в одном кубометре воздуха?</string>
+			<string>сколько гаммов воды содержится в 1 кг воздуха</string>
+			<string>насколько водяной пар, нахдящийся в воздухе далек от состояния насыщения</string>
+		</ansver>
+		<trueAnsver>1</trueAnsver>
+	</Question>
+	<Question>
+		<question>Относительная влажность измеряется в:</question>
+			<ansver>
+			<string>кг/м</string>
+			<string>%</string>
+			<string>м/м3</string>
+			<string>кг/м3</string>
+		</ansver>
+		<trueAnsver>2</trueAnsver>
+	</Question>
+	<Question>
+		<question>Температура, при которой пар, находящийся в воздухе становится насыщенным называется:</question>
+			<ansver>
+			<string>точкой насыщения</string>
+			<string>точкой увлажнения</string>
+			<string>точкой росы</string>
+			<string>температурой насыщения</string>
+		</ansver>
+		<trueAnsver>3</trueAnsver>
+	</Question>
+	<Question>
+		<question>Как называется прибор для измерения влажности:</question>
+			<ansver>
+			<string>барометр</string>
+			<string>манометр</string>
+			<string>психрометр</string>
+			<string>барометр-анероид</string>
+		</ansver>
+		<trueAnsver>3</trueAnsver>
+	</Question>
+	<Question>
+		<question>Итенсивность испарения тем больше, чем:</question>
+			<ansver>
+			<string>больше влажность</string>
+			<string>меньше влажность</string>
+			<string>больше влажность и  выше температура</string>
+			<string>меньше влажность и вышете мпература</string>
+		</ansver>
+		<trueAnsver>4</trueAnsver>
+	</Question>
+	<Question>
+		<question>Для человека комфортной влажностью  воздуха считается:</question>
+			<ansver>
+			<string>40-60%</string>
+			<string>50-70%</string>
+			<string>30-50%</string>
+			<string>60-80%</string>
+		</ansver>
+		<trueAnsver>1</trueAnsver>
+	</Question>
+	<Question>
+		<question>Оба термометра в психрометре показывают одинаковую температуру. Какова относительная влажность воздуха?</question>
+			<ansver>
+			<string>0,5</string>
+			<string>1</string>
+			<string>0,25</string>
+			<string>0</string>
+		</ansver>
+		<trueAnsver>2</trueAnsver>
+	</Question>
+	<Question>
+		<question>Физическая величина, показывающая, какое количество теплоты необходимо, что бы обратить жидкость массой 1 кг в пар без изменения температуры, называется: </question>
+			<ansver>
+			<string>удельной теплотой прообразования</string>
+			<string>влажностью</string>
+			<string>абсолютной влажностью</string>
+			<string>удельная теплота кипения</string>
+		</ansver>
+		<trueAnsver>1</trueAnsver>
+	</Question>
+	<Question>
+		<question>Тепловыми двигателями называют машины, в которых  :</question>
+			<ansver>
+			<string>внутренняя энергия топлива превращается в механическую энергию</string>
+			<string>потенциальная энергия превращается в кинетическую</string>
+			<string>кинетческая энергия движения молекул превращается в потенциальную энергию взаимодействия</string>
+			<string>энергия движения превращается в тепло</string>
+		</ansver>
+		<trueAnsver>1</trueAnsver>
+	</Question>
+	<Question>
+		<question>В тепловом двигателе газ, расширяясь совершает работу и при этом:</question>
+			<ansver>
+			<string>нагревается</string>
+			<string>охлаждается</string>
+			<string>выпускается</string>
+			<string>конденсируется</string>
+		</ansver>
+		<trueAnsver>2</trueAnsver>
+	</Question>
+	<Question>
+		<question>В двигателе внутреннего сгорания крайние положения поршня в цилиндре называются:</question>
+			<ansver>
+			<string>точками росы</string>
+			<string>точками опоры</string>
+			<string>мёртвыми точками</string>
+			<string>точками перехода</string>
+		</ansver>
+		<trueAnsver>3</trueAnsver>
+	</Question>
+	<Question>
+		<question>Влажность воздуха характеризуется:</question>
+			<ansver>
+			<string>плотностью водяного пара, содержащегося в воздухе</string>
+			<string>температурой, при которой пар, находящийся в воздухе, становится насыщенным</string>
+			<string>температурой, при которой жидкость начинает кипеть</string>
+			<string>температурой, при которой тело начинает плавиться</string>
+		</ansver>
+		<trueAnsver>1</trueAnsver>
+	</Question>
+	<Question>
+		<question>КПД теплового двигателя может быть:</question>
+			<ansver>
+			<string>больше 100%</string>
+			<string>равна 100%</string>
+			<string>всегда 50%</string>
+			<string>меньше 100%</string>
+		</ansver>
+		<trueAnsver>4</trueAnsver>
+	</Question>
+	<Question>
+		<question>Процессы впуска, сжатия, рабочего хода, выпуска составляют:</question>
+			<ansver>
+			<string>процессы, происходящие в газовой турбине</string>
+			<string>циклы перехода пара в паровой  машине</string>
+			<string>состояние газовоздушной смеси в реактивном двигателе</string>
+			<string>цикл двигателя внутреннего сгорания</string>
+		</ansver>
+		<trueAnsver>4</trueAnsver>
+	</Question>
+	<Question>
+		<question>Коэффициентом полезного действия теплового двигателя называют:</question>
+			<ansver>
+			<string>Отношение совершенной полезной работы двигателя к энергии,полученной от нагревателя</string>
+			<string>Отношение совершенной полезной работы двигателя к энергии,отданной холодильником</string>
+			<string>Отношение полной работы двигателя к энергии,отданной холодильником</string>
+			<string>Отношение затраченной энергии топлива к совершенной работе </string>
+		</ansver>
+		<trueAnsver>1</trueAnsver>
+	</Question>
+	<Question>
+		<question>Вал, диск, лопатки и спла - это детали:</question>
+			<ansver>
+			<string>двигателя внутреннего сгорания</string>
+			<string>реактивного двигателя</string>
+			<string>паровой турбины</string>
+			<string>дизельного  двигателя</string>
+		</ansver>
+		<trueAnsver>3</trueAnsver>
+	</Question>
+	<Question>
+		<question>Немецкий инженер, создтель двигателя внутреннего сгорания:</question>
+			<ansver>
+			<string>Уатт</string>
+			<string>Карно</string>
+			<string>Дизель</string>
+			<string>Джоуль</string>
+		</ansver>
+		<trueAnsver>3</trueAnsver>
+	</Question>
+	<Question>
+		<question>Нагреватель, рабочее тело и холодильник - это части:</question>
+			<ansver>
+			<string>паровой турбины</string>
+			<string>реактивного двигателя</string>
+			<string>теплового двигателя</string>
+			<string>солнечной батареи</string>
+		</ansver>
+		<trueAnsver>3</trueAnsver>
+	</Question>
+	<Question>
+		<question>Тепловым движением частиц называется</question>
+			<ansver>
+			<string>беспорядочное движение частиц </string>
+			<string>упорядоченнон движение частиц</string>
+			<string>движение частиц под действием магнитного поля</string>
+			<string>движение частиц под действием электрического поля</string>
+		</ansver>
+		<trueAnsver>1</trueAnsver>
+	</Question>
+	<Question>
+		<question>Как можно увеличить внутреннюю энергию тела?</question>
+			<ansver>
+			<string>совершением работы самого тела</string>
+			<string>совершением работы над телом или с помощью теплопередачи</string>
+			<string>с помощью отдачи тепла телом</string>
+			<string>при перемещении тела с постоянной скоростью</string>
+		</ansver>
+		<trueAnsver>2</trueAnsver>
+	</Question>
+	<Question>
+		<question>Если при одинаковой температуре  одно из двух тел кажется более холодным, это означает, что у этого тела:</question>
+			<ansver>
+			<string>теплопроводность ниже, чем у второго тела</string>
+			<string>теплопроводность выше, чем у второго тела</string>
+			<string>теплопроводность равна 0</string>
+			<string>теплопроводность первого и воторого тела одинакова</string>
+		</ansver>
+		<trueAnsver>2</trueAnsver>
+	</Question>
+	<Question>
+		<question>Самой низкой теплопроводностью обладает:</question>
+			<ansver>
+			<string>вещество в жидком состоянии</string>
+			<string>металл</string>
+			<string>вакуум</string>
+			<string>газ</string>
+		</ansver>
+		<trueAnsver>3</trueAnsver>
+	</Question>
+	<Question>
+		<question>При конвекции:</question>
+			<ansver>
+			<string>нагретый воздух опскается вниз, а холодный поднимается вверх</string>
+			<string>холодный воздух нагревается за счет горячего воздуха</string>
+			<string>горячий воздух поднимается вверх, а холодный опускается вниз</string>
+			<string>холодный воздух охлаждает горячий воздух</string>
+		</ansver>
+		<trueAnsver>3</trueAnsver>
+	</Question>
+	<Question>
+		<question>Конвекцию различают:</question>
+			<ansver>
+			<string>простую и сложную</string>
+			<string>свободную и вынужденную</string>
+			<string>охлаждающую и нагревающую</string>
+			<string>приточную и вытяжную</string>
+		</ansver>
+		<trueAnsver>2</trueAnsver>
+	</Question>
+	<Question>
+		<question>Почему подвал самое холодное место в доме?</question>
+			<ansver>
+			<string>Потому, что холодный воздух опускается вниз</string>
+			<string>Потому, что земля имеет теплопроводность выше, чем воздух</string>
+			<string>Потому, что происходит испарение жидкости из земли</string>
+			<string>Потому, что пол не пропускает тепло</string>
+		</ansver>
+		<trueAnsver>1</trueAnsver>
+	</Question>
+	<Question>
+		<question>Как лучше остудить кастрюлю с горячим компотом?</question>
+			<ansver>
+			<string>Положить кастрюлю в таз со льдом</string>
+			<string>Положить лед с на крышку кастрюли</string>
+			<string>Направить на кастрюлю вентилятор</string>
+			<string>Обложить кастрюлю мокрыми полотенцами </string>
+		</ansver>
+		<trueAnsver>2</trueAnsver>
+	</Question>
+	<Question>
+		<question>Каким способом охлаждается воздух в комнате зимой при открытой форточке?</question>
+			<ansver>
+			<string>Теплопроводностью</string>
+			<string>Конвекцией</string>
+			<string>Излучением</string>
+			<string>За счет испарения влаги</string>
+		</ansver>
+		<trueAnsver>2</trueAnsver>
+	</Question>
+	<Question>
+		<question>Темное и светлое тело сначала нагревают за счет излучения, а затем охлаждают. Какое из тел быстрее нагреется и быстрее охладится?</question>
+			<ansver>
+			<string>Светлое тело быстрее нагреется и медленнее охладится</string>
+			<string>Темное тело быстрее нагреется и медленнее охладится</string>
+			<string>Светлое тело медленнее нагреется и быстрее охладится</string>
+			<string>светлое тело медленнее нагреется и медленее охладится</string>
+		</ansver>
+		<trueAnsver>4</trueAnsver>
+	</Question>
+	<Question>
+		<question>Количество теплоты, которое необходимо для нагревания тела, зависит от:</question>
+			<ansver>
+			<string>массы  тела, рода вещесства и от изменения его температуры</string>
+			<string>от вида теплопередачи и рода вещества</string>
+			<string>от агрегатного состояния вещества и вида теплопередачи</string>
+			<string>от разницы температур и рода вещества</string>
+		</ansver>
+		<trueAnsver>1</trueAnsver>
+	</Question>
+	<Question>
+		<question>Почему близость водоемов влияет на температуру воздуха?</question>
+			<ansver>
+			<string>Потому, что влажный воздух хуже нагревается</string>
+			<string>Потому, что земля имеет теплопроводность выше, чем вода</string>
+			<string>Потому, что вода имеет теплопроводность выше, чем земля</string>
+			<string>Потому, что воздух над водой остывает быстрее</string>
+		</ansver>
+		<trueAnsver>3</trueAnsver>
+	</Question>
+	<Question>
+		<question>Удельная теплота сгорания топлива показывает:</question>
+			<ansver>
+			<string>какое количество топлива сгорает, чтобы выделить энергию в 1 Дж</string>
+			<string>какое количество теплоты выделяется при сгорании 1 кг топлива</string>
+			<string>какое количество топлива сгорает, чтобы нагреть тело на 1 градус по шкале Цельсия</string>
+			<string>каква масса топлива сгорает, чтобы превратить 1 кг воды в пар</string>
+		</ansver>
+		<trueAnsver>2</trueAnsver>
+	</Question>
+	<Question>
+		<question>Формула для расчета количества теплоты, выделяемое  при сгорании топлива:</question>
+			<ansver>
+			<string>Q=Cm(tг - tх)</string>
+			<string>Q= Lm</string>
+			<string>E= mgh</string>
+			<string>Q=qm</string>
+		</ansver>
+		<trueAnsver>4</trueAnsver>
+	</Question>
+	<Question>
+		<question>В каких агрегатных состояниях может находиться железо?</question>
+			<ansver>
+			<string>Только в твердом и жидком</string>
+			<string>В твердом, жидком и газообразном</string>
+			<string>Только в твердом и газообразном</string>
+			<string>Только в твердом</string>
+		</ansver>
+		<trueAnsver>2</trueAnsver>
+	</Question>
+	<Question>
+		<question>При кристаллизации вещества происходит</question>
+			<ansver>
+			<string>Выделение тепла</string>
+			<string>Поглощение тепла</string>
+			<string>Тепловое равновесие (т.к. температура не меняется)</string>
+			<string>Тепловой баланс</string>
+		</ansver>
+		<trueAnsver>1</trueAnsver>
+	</Question>
+	<Question>
+		<question>Почему в холодных районах применяют термометры со спиртом, а не с ртутью?</question>
+			<ansver>
+			<string>Потому, что на холоде у ртути происходит больше вредных испарений</string>
+			<string>Потому, что спирт в термометре окрашивают в красный цвет, и на морозе его лучше видно</string>
+			<string>Потому, что температура отвердевания ртути ниже, чем температура отвердевания спирта</string>
+			<string>Потому, что температура отвердевания ртути выше, чем температура отвердевания спирта</string>
+		</ansver>
+		<trueAnsver>4</trueAnsver>
+	</Question>
+	<Question>
+		<question>Какие из перечисленных веществ относятся к аморфным?</question>
+			<ansver>
+			<string>железо, ртуть</string>
+			<string>бумага, сталь</string>
+			<string>стекло, смола</string>
+			<string>древесина, спирт</string>
+		</ansver>
+		<trueAnsver>3</trueAnsver>
+	</Question>
+	<Question>
+		<question>В каком агрегатном состоянии скорость молекул наименьшая?</question>
+			<ansver>
+			<string>В газообразном</string>
+			<string>В жидком</string>
+			<string>В твердом</string>
+			<string>Скорость молекул не зависит от агрегатного состояния</string>
+		</ansver>
+		<trueAnsver>3</trueAnsver>
+	</Question>
+	<Question>
+		<question>Удельная теплота плавления показывает:</question>
+			<ansver>
+			<string>Какое количество вещества плавится, при передаче ему  энергии в 1 Дж</string>
+			<string>Какое количество теплоты выделяется при плавлении 1 кг вещества, взятого при температуре плавления</string>
+			<string>Какое количество вещества плавится, при увеличении температуры на 1 градус по шкале Цельсия</string>
+			<string>Какое количество теплоты выделяется веществом при  температуре плавления </string>
+		</ansver>
+		<trueAnsver>2</trueAnsver>
+	</Question>
+	<Question>
+		<question>Какое утверждение верно?</question>
+			<ansver>
+			<string>При температуре плавления внутренняя энергия вещества в жидком состоянии больше внутренней энергии такой же массы вещества в твердом состоянии</string>
+			<string>При температуре плавления внутренняя энергия вещества в твердом состоянии больше внутренней энергии такой же массы вещества в жидком состоянии</string>
+			<string>При температуре плавления внутренняя энергия вещества в твердом состоянии равна внутренней энергии такой же массы вещества в жидком состоянии</string>
+			<string>При температуре плавления внутренняя энергия вещества уменьшается</string>
+		</ansver>
+		<trueAnsver>1</trueAnsver>
+	</Question>
+	<Question>
+		<question>От чего зависит скорость испарения жидкости?</question>
+			<ansver>
+			<string>От рода вещества</string>
+			<string>От рода вещества и площади поверхности испарения</string>
+			<string>От рода вещества, площади поверхности испарения  и температуры окружающего воздуха</string>
+			<string>От рода жидкости, от температуры жидкости, от площади поверхности испарения</string>
+		</ansver>
+		<trueAnsver>4</trueAnsver>
+	</Question>
+	<Question>
+		<question>При испарении жидкости:</question>
+			<ansver>
+			<string>энергия выделяется в окружающую среду</string>
+			<string>Энергия поглощается молекулами пара</string>
+			<string>Жидкость нагревается</string>
+			<string>Энергия молекул не меняется</string>
+		</ansver>
+		<trueAnsver>2</trueAnsver>
+	</Question>
+	<Question>
+		<question>Почему испарение жидкости происходит быстрее, если над ее поверхностью дует ветер?</question>
+			<ansver>
+			<string>Потому, что быстрее происходит процесс теплопередачи</string>
+			<string>Потому, что увеличивается площадь испарения жидкости </string>
+			<string>Потому что молекулы воды будут быстрее отрываться от поверхности и уноситься в воздух.</string>
+			<string>Потому, что молекулы воздуха дают дополнительную энергию молекулам воды</string>
+		</ansver>
+		<trueAnsver>3</trueAnsver>
+	</Question>
+	<Question>
+		<question>В какую погоду быстрее просыхают лужи?</question>
+			<ansver>
+			<string>В тихую и теплую</string>
+			<string>В ветренную и холодную</string>
+			<string>В тихую и холодную</string>
+			<string>В ветренную и теплую</string>
+		</ansver>
+		<trueAnsver>4</trueAnsver>
+	</Question>
+	<Question>
+		<question>В каком воздухе переносить жару легче? В сухом или  влажном?</question>
+			<ansver>
+			<string>В сухом воздухе переносить жару легче, так как влага быстрее испаряется  и охлаждает тело</string>
+			<string>Во влажном воздухе переносить жару легче, так как вода медленне нагревается  и охлаждает тело</string>
+			<string>Ощущения жары не зависят от влажности и поэтому переносятся одинаково</string>
+			<string>В сухом климате жара переносится тяжелей, так как в воздухе меньше содержание водяных паров</string>
+		</ansver>
+		<trueAnsver>1</trueAnsver>
+	</Question>
+	<Question>
+		<question>Физический прибор гигрометр используют для:</question>
+			<ansver>
+			<string>определения давления водяных паров</string>
+			<string>Для определения влажности воздуха</string>
+			<string>Для определения давления в жидкости</string>
+			<string>Для определения содержания воды в молоке</string>
+		</ansver>
+		<trueAnsver>2</trueAnsver>
+	</Question>
+	<Question>
+		<question>Почему вечером после жаркого дня появляется роса?</question>
+			<ansver>
+			<string>Жарким днем, вода в воздухе является ненасыщенным паром, вечером же температура понижается, воздух становится насыщенным и избытки влаги, конденсируясь, выпадают в виде росы</string>
+			<string>Жарким днем, воздух является насыщенным паром и  вечером при понижении температуры конденсируется в водяной пар в виде росы</string>
+			<string>Вечером снижается температура и увеличивается испарение, а излишки влаги выпадают в виде росы</string>
+			<string>Роса выпадает из-за увеличения влажности вечером</string>
+		</ansver>
+		<trueAnsver>1</trueAnsver>
+	</Question>
+	<Question>
+		<question>Удельная теплота парообразования показывает:</question>
+			<ansver>
+			<string>какое количество теплоты необходимо, чтобы превратить в пар жидкость массой 1 кг без изменения температуры</string>
+			<string>какое количество жидкости можно превратить в пар без изменения температуры при передаче тепла в 1 Дж</string>
+			<string>как изменится температура 1 кг жидкости при передаче ей тепла в 1 ДЖ</string>
+			<string>какое количество пара образуется при передаче жидкости 1 Дж тепла</string>
+		</ansver>
+		<trueAnsver>1</trueAnsver>
+	</Question>
+	<Question>
+		<question>Формула для расчета количества теплоты  при кипении:</question>
+			<ansver>
+			<string>Q=Cm(tг - tх)</string>
+			<string>Q= Lm</string>
+			<string>E= mgh</string>
+			<string>Q=qm</string>
+		</ansver>
+		<trueAnsver>2</trueAnsver>
+	</Question>
+	<Question>
+		<question>В процессе кипения жидкости, предварительно нагретой до температуры кипения, сообщаемая ей энергия идёт</question>
+			<ansver>
+			<string>на увеличение средней скорости движения молекул</string>
+			<string> на увеличение средней скорости движения молекул и на преодоление сил взаимодействия между молекулами</string>
+			<string>на преодоление сил взаимодействия между молекулами без увеличения средней скорости их движения</string>
+			<string>на увеличение средней скорости движения молекул и на увеличение сил взаимодействия между молекулами</string>
+		</ansver>
+		<trueAnsver>3</trueAnsver>
+	</Question>
+	<Question>
+		<question>Открытый сосуд с водой находится в лаборатории, в которой поддерживается определённая температура и влажность воздуха. Скорость испарения будет равна скорости конденсации воды в сосуде</question>
+			<ansver>
+			<string>только при условии, что температура в лаборатории больше 25 °С</string>
+			<string>только при условии, что влажность воздуха в лаборатории равна 100%</string>
+			<string>только при условии, что температура в лаборатории меньше 25 °С, а влажность воздуха меньше 100%</string>
+			<string>при любой температуре и влажности в лаборатории</string>
+		</ansver>
+		<trueAnsver>2</trueAnsver>
+	</Question>
+	<Question>
+		<question>Удельная теплоёмкость стали равна  500 Дж/кг·°С. Что это означает?</question>
+			<ansver>
+			<string>для нагревания 1 кг стали на 1 °С необходимо затратить энергию 500 Дж</string>
+			<string>для нагревания 500 кг стали на 1 °С необходимо затратить энергию 1 Дж</string>
+			<string> для нагревания 1 кг стали на 500 °С необходимо затратить энергию 1 Дж</string>
+			<string>для нагревания 500 кг стали на 1 °С необходимо затратить энергию 500 Дж</string>
+		</ansver>
+		<trueAnsver>1</trueAnsver>
+	</Question>
+	<Question>
+		<question>Теплопередача не происходит путем:</question>
+			<ansver>
+			<string>механического движения</string>
+			<string>теплопроводности</string>
+			<string>излучения</string>
+			<string>конвекции</string>
+		</ansver>
+		<trueAnsver>1</trueAnsver>
+	</Question>
+	<Question>
+		<question>В какой обуви быстрей мерзнут ноги? В просторной или в тесной?</question>
+			<ansver>
+			<string>просторной</string>
+			<string>тесной</string>
+			<string>одинаково мерзнут</string>
+			<string>одинаково не мерзнут</string>
+		</ansver>
+		<trueAnsver>1</trueAnsver>
+	</Question>
+	<Question>
+		<question>Почему нагретые детали охлаждаются быстрее в воде, чем на воздухе?</question>
+			<ansver>
+			<string>воздух плохо проводит тепло по сравнению с водой</string>
+			<string>воздух хорошо проводит тепло по сравнению с водой</string>
+			<string>вода плохо проводит тепло по сравнению с воздухом</string>
+			<string>теплопроводность воды и воздуха одинаковы</string>
+		</ansver>
+		<trueAnsver>1</trueAnsver>
+	</Question>
+	<Question>
+		<question>Физическая величина, которая показывает, какое количество теплоты требуется для изменения температуры вещества массой 1 кг на 1 ºС:</question>
+			<ansver>
+			<string>внутренняя энергия </string>
+			<string>количество теплоты</string>
+			<string>масса</string>
+			<string>удельная теплоемкость</string>
+		</ansver>
+		<trueAnsver>4</trueAnsver>
+	</Question>
+	<Question>
+		<question>Наибольшей теплопровдностью обладают:</question>
+			<ansver>
+			<string>жидкости</string>
+			<string>газы</string>
+			<string>металлы</string>
+			<string>пластмасса</string>
+		</ansver>
+		<trueAnsver>3</trueAnsver>
+	</Question>
+	<Question>
+		<question>Количество теплоты, которое необходимо для нагревания тела, не зависит от:</question>
+			<ansver>
+			<string>массы этого тела</string>
+			<string>способа нагревания тела</string>
+			<string>изменения температуры</string>
+			<string>рода вещества</string>
+		</ansver>
+		<trueAnsver>2</trueAnsver>
+	</Question>
+	<Question>
+		<question>Как изменяется внутренняя энергия стали при отвердевании?</question>
+			<ansver>
+			<string>Уменьшается</string>
+			<string>увеличивается</string>
+			<string>Не изменяется</string>
+			<string>Сначала увеличивается, затем уменьшается</string>
+		</ansver>
+		<trueAnsver>1</trueAnsver>
+	</Question>
+	<Question>
+		<question>Вода превратилась в пар. При этом:</question>
+			<ansver>
+			<string>изменилась температура молекул воды</string>
+			<string>изменилось взаимное расположение молекул воды</string>
+			<string>изменился размер молекул воды</string>
+			<string>изменился состав молекул воды</string>
+		</ansver>
+		<trueAnsver>2</trueAnsver>
+	</Question>
+	<Question>
+		<question>Газ может легко изменить свой объём, так как:</question>
+			<ansver>
+			<string>расстояние между молекулами газа намного больше размера самих молекул</string>
+			<string>молекулы газа расположены очень близко друг к другу</string>
+			<string>молекулы газа не могут преодолевать силы межмолекулярного притяжения</string>
+			<string>молекулы газа расположены в определённом порядке.</string>
+		</ansver>
+		<trueAnsver>1</trueAnsver>
+	</Question>
+	<Question>
+		<question>При плавлении кристаллического тела вся получаемая энергия тратится на:</question>
+			<ansver>
+			<string>уменьшение кинетической энергии молекул
+
+</string>
+			<string>формирование кристаллической решётки</string>
+			<string>увеличение температуры тела</string>
+			<string>разрушение кристаллической решётки</string>
+		</ansver>
+		<trueAnsver>4</trueAnsver>
+	</Question>
+	<Question>
+		<question>Олово нагрели до температуры плавления. В процессе плавления температура олова:</question>
+			<ansver>
+			<string>увеличивается</string>
+			<string>уменьшается</string>
+			<string>не изменяется</string>
+			<string>резко возрастает</string>
+		</ansver>
+		<trueAnsver>3</trueAnsver>
+	</Question>
+	<Question>
+		<question>Определите, что является физической величиной?</question>
+			<ansver>
+			<string>Джоуль</string>
+			<string>Энергия </string>
+			<string>Килограмм</string>
+			<string>Теплопередача</string>
+		</ansver>
+		<trueAnsver>2</trueAnsver>
+	</Question>
+	<Question>
+		<question>При плавлении аморфных тел их температура:</question>
+			<ansver>
+			<string>непрерывно увеличивается</string>
+			<string>постепенно уменьшается</string>
+			<string>сначала увеличивается, а затем уменьшается</string>
+			<string>остаётся постоянной в течение всего процесса плавления</string>
+		</ansver>
+		<trueAnsver>1</trueAnsver>
+	</Question>
+	<Question>
+		<question>Температура плавления свинца 327 °С. В каком состоянии находится этот металл, если его температура 320 °С (№ 1) и 330 °С (№ 2)?</question>
+			<ansver>
+			<string>№ 1 - в твёрдом, № 2 - в жидком</string>
+			<string>№ 1 - в жидком, № 2 - в твёрдом</string>
+			<string>№ 1 и № 2 - в жидком</string>
+			<string>№ 1 и № 2 - в твёрдом</string>
+		</ansver>
+		<trueAnsver>1</trueAnsver>
+	</Question>
+	<Question>
+		<question>Четыре жидкости одинаковой массы получили одинаковое количество теплоты. Какая из них нагреется на наименьшее число градусов? </question>
+			<ansver>
+			<string>Керосин</string>
+			<string>Спирт</string>
+			<string>Вода </string>
+			<string>Подсолнечное масло</string>
+		</ansver>
+		<trueAnsver>3</trueAnsver>
+	</Question>
+	<Question>
+		<question>В стакан с водой (200г) температурой 25 градусов Цельсия опустили медный шарик (50г) температурой 80градусов Цельсия. Как изменилась внутрення энергия взаимодействующих тел?</question>
+			<ansver>
+			<string>Не изменилась</string>
+			<string>У обоих тел увеличилась</string>
+			<string>У воды у величилась, у шарика уменьшилась</string>
+			<string>У воды уменьшилась, а у шарика увеличилась</string>
+		</ansver>
+		<trueAnsver>3</trueAnsver>
+	</Question>
+	<Question>
+		<question>Кристаллическое вещество отвердевает при температуре:</question>
+			<ansver>
+			<string>меньше температуры плавления</string>
+			<string>при любой температуре</string>
+			<string>больше температуры плавления</string>
+			<string>равной температуре плавления</string>
+		</ansver>
+		<trueAnsver>4</trueAnsver>
+	</Question>
+	<Question>
+		<question>Температура тела зависит от</question>
+			<ansver>
+			<string>их размеров</string>
+			<string>скорости движения частиц, из которых состоит тело</string>
+			<string>количества в нем молекул</string>
+			<string>расположения молекул в теле</string>
+		</ansver>
+		<trueAnsver>2</trueAnsver>
+	</Question>
+	<Question>
+		<question>В пробирках находится ртуть во всех трех состояниях: в одной — в жидком в другой — газообразном (пар), в третьей — твердом. Чем отличаются частицы ртути в этих пробирках?</question>
+			<ansver>
+			<string>Ничем</string>
+			<string>Размером</string>
+			<string>Скоростью движения и распложением</string>
+			<string>Составом</string>
+		</ansver>
+		<trueAnsver>3</trueAnsver>
+	</Question>
+	<Question>
+		<question>Какое из названных веществ обладает наилучшей теплопроводностью?</question>
+			<ansver>
+			<string>Мех</string>
+			<string>Древесина</string>
+			<string>Резина</string>
+			<string>Серебро</string>
+		</ansver>
+		<trueAnsver>4</trueAnsver>
+	</Question>
+	<Question>
+		<question>В каком теле — газообразном, жидком, твердом — конвекция невозможна?</question>
+			<ansver>
+			<string>Газообразном</string>
+			<string>Твердом</string>
+			<string>Жидком</string>
+			<string>Таких тел нет</string>
+		</ansver>
+		<trueAnsver>2</trueAnsver>
+	</Question>
+	<Question>
+		<question>В каких единицах измеряют количество теплоты?</question>
+			<ansver>
+			<string>Ньютонах и килоньютонах</string>
+			<string>Паскалях и мм рт. ст.</string>
+			<string>Ваттах и мегаваттах</string>
+			<string>Джоулях и калориях</string>
+		</ansver>
+		<trueAnsver>4</trueAnsver>
+	</Question>
+	<Question>
+		<question>Энергия движения и взаимодействия частиц, из которых состоит тело, определяет его</question>
+			<ansver>
+			<string>Кинетическую  энергию</string>
+			<string>Давление</string>
+			<string>Тепловую энергию</string>
+			<string> Внутреннюю энергию</string>
+		</ansver>
+		<trueAnsver>4</trueAnsver>
+	</Question>
+	<Question>
+		<question>Как изменится внутренняя энергия если его в начале нагрели, а затем подняли вверх?</question>
+			<ansver>
+			<string>В начале увеличится, затем не изменится</string>
+			<string>В начале уменьшится, затем увеличится</string>
+			<string>Будет постоянно увеличиваться</string>
+			<string>Не изменится</string>
+		</ansver>
+		<trueAnsver>1</trueAnsver>
+	</Question>
+	<Question>
+		<question>Температура воды 50 0С. Какие тепловые процессы в этом случае возможны</question>
+			<ansver>
+			<string>Кипение</string>
+			<string>Плавление</string>
+			<string>Кристаллизация</string>
+			<string>испарение</string>
+		</ansver>
+		<trueAnsver>4</trueAnsver>
+	</Question>
+	<Question>
+		<question>Какая физическая величина определяется с помощью психрометра?</question>
+			<ansver>
+			<string>Давление</string>
+			<string>Температура</string>
+			<string>Абсолютная влажность</string>
+			<string>Относительная влажность</string>
+		</ansver>
+		<trueAnsver>4</trueAnsver>
+	</Question>
+	<Question>
+		<question>С помощью какой формулы определяют количество энергии, необходимое для того, чтобы жидкость расплавилась при температуре плавления?</question>
+			<ansver>
+			<string>Q = сm (t2 - t1)</string>
+			<string>Q = λm</string>
+			<string>Q = λ/m</string>
+			<string>Q = Lm</string>
+		</ansver>
+		<trueAnsver>2</trueAnsver>
+	</Question>
+</ArrayOfQuestion>
